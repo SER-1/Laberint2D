@@ -1,0 +1,11 @@
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\bin\Debug\Laberint2D.exe.config
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\bin\Debug\Laberint2D.exe
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\bin\Debug\Laberint2D.pdb
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.FormMenu.resources
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.Properties.Resources.resources
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.csproj.GenerateResource.Cache
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.exe
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.pdb
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.FormLevel1.resources
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.csprojResolveAssemblyReference.cache
+C:\Users\ЫУК\Desktop\Практика 3 курс\Laberint2D\Laberint2D\obj\Debug\Laberint2D.FormLevel2.resources
